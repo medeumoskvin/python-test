@@ -7,3 +7,4 @@ print(a)
 
 b = input('напишете ваше имя !')
 print(b)
+
